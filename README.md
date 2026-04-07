@@ -32,3 +32,11 @@ Após a instalação, foi utilizada a função `count()` do pacote `plyr` para c
 
 <img width="233" height="532" alt="{525F94E8-4D22-4A9C-B955-046E2961D314}" src="https://github.com/user-attachments/assets/fd52764f-52b9-454d-996b-2f5177ff418c" />
 
+Foi gerado um gráfico de dispersão relacionando o peso (`wt`) e a eficiência de combustível (`mpg`) dos carros:
+
+<img width="605" height="512" alt="{4A9FACB2-5C9C-4E24-BC22-11D72CD1B391}" src="https://github.com/user-attachments/assets/baf4f49d-914c-4af2-8096-b5a077de9def" />
+
+O gráfico mostra uma **relação inversa** entre as variáveis: carros mais pesados tendem a ter menor eficiência de combustível, ou seja, fazem menos milhas por galão (mpg).
+
+
+
